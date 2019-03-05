@@ -1,0 +1,32 @@
+li {
+	/*align-items: center;*/
+	list-style-type:none;
+	text-align: center;
+	margin: 5px ;
+}
+ul {
+	padding-left: 0px;
+}
+li a {
+    color: black;
+}
+h1 {
+	text-align: center;
+}
+body {
+   	background: url(images/background.jpg) no-repeat fixed; 
+  	background-size: cover;
+}
+.content {
+	align-items: center;
+	text-align: center;
+}
+form {
+	
+	text-align: center;
+}
+#formInput {
+	margin-top: 30px;
+	width: 150px;
+	height: 30px;
+}
